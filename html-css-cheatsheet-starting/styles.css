@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+  }
+  
+  h1 {
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  h2 {
+    color: blue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  table {
+    border: 2px solid orangered;
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background-color: orange;
+  }
+  
+  td {
+    border-top: 1px solid orangered;
+  }
+  
+  .code {
+    font-family: monospace;
+    background-color: yellow;
+  }
